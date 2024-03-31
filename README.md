@@ -38,7 +38,7 @@ O NASA é um projeto para representar o ensinamento de Site Responsivo, CSS, Htm
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/9kslFpDycTfsNBvpgjvMzW/Explore-sem-limites-(Copy)?type=design&node-id=0-1&mode=design&t=cELr2uH1Xa9w7CEs-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-Ou veja o projeto funcionando através do [SITE](https://rafael-rodrigues23.github.io/Projeto04_Fotoblog/)
+Ou veja o projeto funcionando através do [SITE](https://rafael-rodrigues23.github.io/Exercicio5_nasa/)
 
 ## :memo: Licença
 
