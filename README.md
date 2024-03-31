@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img width="393" alt="Captura de tela 2024-01-27 235012" src=".github/preview.png">
+  <img width="100%" alt="Captura de tela 2024-01-27 235012" src=".github/preview.png">
 
 </p>
 
